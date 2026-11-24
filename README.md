@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Abhishek Mahapatra 👋</h1>
-  <p><strong>Full-Stack Developer | Backend Architect | Open Source Contributor</strong></p>
+  <p><strong>Full-Stack Developer | Backend Architect | Systems & Open Source Enthusiast</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/Abhishek%20mahapatra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,23 +14,15 @@
 ### 💫 About Me
 - 🔭 **Currently Building:** Scalable web applications & modern admin dashboards with **Laravel**, **Livewire**, and **DaisyUI**.
 - 🛠️ **Full-Stack Focus:** RESTful API design, Role-Based Access Control (RBAC), JWT authentication, and reactive interfaces with **Vue.js** and **React**.
-- 🚀 **Open Source:** Active contributor to large-scale systems and architecture projects.
+- 🚀 **Open Source:** Active contributor and supporter of modern native systems architecture and compatibility layers.
 - ⚡ **Fun Fact:** I can troubleshoot physical PC hardware and motherboard circuitry just as effortlessly as debugging backend code.
-
----
-
-### 🌟 Featured Open Source Contributions
-
-#### 🎮 [ProjectLeonida / Leonida](https://github.com/ProjectLeonida/Leonida) *(33,000+ ⭐)*
-*Native x86-64 recompilation and Vulkan translation compatibility layer for Grand Theft Auto VI (Xbox Series).*
-- **[PR #9889](https://github.com/ProjectLeonida/Leonida/pull/9889):** Synced build-stage concurrency architecture across 9 localized community quickstarts (`PROC-544`).
-- **[PR #9984](https://github.com/ProjectLeonida/Leonida/pull/9984):** Cleaned up 85 lines of duplicate effect records & shader database definitions in `docs/models.md`.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 **Languages:**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
